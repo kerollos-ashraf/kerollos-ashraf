@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=HI%F0%9F%91%8B%2C+WELCOME+TO+MY+PROFILE)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=HI%F0%9F%91%8B%2C+WELCOME+TO+MY+PROFILE">
 <h1 align="center">I'm Kerollos Ashraf Farag</h1>
 <h3 align="center">Software Engineer</h3>
 
